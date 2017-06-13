@@ -1,0 +1,22 @@
+Panda :
+
+- csv files 
+
+ -CSV is a simple file format used to store tabular data, such as a spreadsheet or database. Files in the CSV format can be imported to and exported from programs that store data in tables, such as Microsoft Excel or OpenOffice Calc. CSV stands for "comma-separated values
+
+ - https://support.bigcommerce.com/articles/Public/What-is-a-CSV-file-and-how-do-I-save-my-spreadsheet-as-one
+
+ -http://pandas.pydata.org/pandas-docs/version/0.15.2/tutorials.html
+
+
+.bat 
+
+ - open notepad , type cmd and save it as local.bat in the folder where u want to run the python file 
+ 
+Install .whl file 
+
+- pip install filename.whl from python/script/local.bat  
+
+ 
+
+  
