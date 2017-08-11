@@ -50,3 +50,7 @@ Levenberg-Marquardt algorithm
 
  https://harizanov.com/2013/03/siri-like-voice-chat-with-raspberry-pi-keep-kids-busy-for-a-while/
  https://stackoverflow.com/questions/39917556/google-cloud-speech-returning-blank-response?rq=1
+
+
+
+ https://wolfpaulus.com/embedded/raspberrypi2-sr/
