@@ -1,3 +1,0 @@
-https://cloud.google.com/storage/archival/
-
-https://cloud.google.com/natural-language/
